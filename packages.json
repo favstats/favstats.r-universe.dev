@@ -2,5 +2,65 @@
   {
     "package": "dashboardr",
     "url": "https://github.com/favstats/dashboardr"
+  },
+  {
+    "package": "metatargetr",
+    "url": "https://github.com/favstats/metatargetr"
+  },
+  {
+    "package": "appendornot",
+    "url": "https://github.com/favstats/appendornot"
+  },
+  {
+    "package": "peRspective",
+    "url": "https://github.com/favstats/peRspective"
+  },
+  {
+    "package": "liads",
+    "url": "https://github.com/favstats/liads"
+  },
+  {
+    "package": "reclamer",
+    "url": "https://github.com/favstats/reclamer"
+  },
+  {
+    "package": "wtmapi",
+    "url": "https://github.com/favstats/wtmapi"
+  },
+  {
+    "package": "schwabr",
+    "url": "https://github.com/favstats/schwabr"
+  },
+  {
+    "package": "bayeRisch",
+    "url": "https://github.com/favstats/bayeRisch"
+  },
+  {
+    "package": "hessr",
+    "url": "https://github.com/favstats/hessr"
+  },
+  {
+    "package": "sachsr",
+    "url": "https://github.com/favstats/sachsr"
+  },
+  {
+    "package": "berlinr",
+    "url": "https://github.com/favstats/berlinr"
+  },
+  {
+    "package": "plattdeutschr",
+    "url": "https://github.com/favstats/plattdeutschr"
+  },
+  {
+    "package": "rdialetti",
+    "url": "https://github.com/favstats/rdialetti"
+  },
+  {
+    "package": "rpublons",
+    "url": "https://github.com/favstats/rpublons"
+  },
+  {
+    "package": "untruthr",
+    "url": "https://github.com/favstats/untruthr"
   }
 ]
